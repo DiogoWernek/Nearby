@@ -12,4 +12,4 @@ Key features include:
 
 • User-friendly interface with detailed location information
 
-This project was built using modern web technologies, providing a responsive and smooth user experience.
+This project was built using modern web technologies, including a local API, providing a responsive and smooth user experience.
